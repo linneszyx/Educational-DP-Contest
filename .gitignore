@@ -6,7 +6,8 @@
 *.lo
 *.o
 *.obj
-
+input.txt
+output.txt
 # Precompiled Headers
 *.gch
 *.pch
